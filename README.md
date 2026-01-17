@@ -2,6 +2,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-green?logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-latest-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # RAG Ассистент с OpenAI API
 
