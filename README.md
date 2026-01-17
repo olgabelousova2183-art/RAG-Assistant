@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-green?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-latest-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # RAG Ассистент с OpenAI API
 
 Готовый RAG (Retrieval Augmented Generation) ассистент, подключенный к OpenAI API для создания умного помощника с базой знаний.
